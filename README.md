@@ -11,3 +11,6 @@ colocar as chamadas http necessárias e dar continuidade ao projeto com seus pr�
     - Home
     - Alteração de senha
 
+#### Observações
+Está usando o Flutter Hooks
+

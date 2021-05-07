@@ -10,7 +10,7 @@ class CopyrightBar extends StatelessWidget {
       width: MediaQuery.of(context).size.width,
       height: 25.0,
       child: Text(
-        'Powered by Build Innovation. \u00a9${getYear()}',
+        'Powered by . \u00a9${getYear()}',
         textAlign: TextAlign.center,
         style: TextStyle(
           color: Colors.grey,
